@@ -1,3 +1,5 @@
+# ApiPost解析成ts接口信息
+
 # 配置
 ```
 ap2ts config -a <author> -p <path>
